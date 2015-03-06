@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package app.com.example.wungmathing.sunshine;
+package app.com.example.wungmathing.sunshine.data;
 
 import android.test.suitebuilder.TestSuiteBuilder;
 
